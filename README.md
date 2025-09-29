@@ -4,7 +4,7 @@
 
 Discover your **birthday twin** across history and explore thousands of **wiki-style biographies** indexed by date.  
 
-👉 [Visit BirthdayTwins.com](https://www.birthdaytwins.com)
+👉 [BirthdayTwins.com](https://www.birthdaytwins.com)
 
 ---
 
