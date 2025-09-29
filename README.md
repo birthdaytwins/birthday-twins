@@ -1,6 +1,6 @@
 # Birthday Twins
 
-**BirthdayTwins.com** is a wiki-style encyclopedia about **famous birthdays** and the idea of the **birthday twin** – finding historical figures, artists, leaders, scientists, and modern celebrities who share your special day.  
+**BirthdayTwins.com** is a specialized encyclopedia about **famous birthdays** and the idea of the **birthday twin** – finding historical figures, artists, leaders, scientists, and modern celebrities who share your special day.  
 
 Discover your **birthday twin** across history and explore thousands of **wiki-style biographies** indexed by date.  
 
